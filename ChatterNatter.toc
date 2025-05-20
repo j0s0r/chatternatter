@@ -1,0 +1,11 @@
+## Interface: 110105
+## Title: ChatterNatter
+## Notes: Clean, minimal chat styling with customization.
+## Author: Knutballs : EU-Ravencrest
+## Version: V19.05.2025:01
+## SavedVariables: ChatterNatter_Settings
+## BackdropTemplate: true
+
+ChatterNatter_Formatter.lua
+ChatterNatter.lua
+ChatterNatter_Config.lua
